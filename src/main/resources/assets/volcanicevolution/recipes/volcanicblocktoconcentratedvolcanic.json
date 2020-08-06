@@ -1,0 +1,37 @@
+{
+  "group": "volcanicevolution",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "volcanicevolution:volcanicoreblock"
+    },
+    {
+      "item": "volcanicevolution:volcanicoreblock"
+    },
+    {
+      "item": "volcanicevolution:volcanicoreblock"
+    },
+    {
+      "item": "volcanicevolution:volcanicoreblock"
+    },
+    {
+      "item": "volcanicevolution:volcanicoreblock"
+    },
+    {
+      "item": "volcanicevolution:volcanicoreblock"
+    },
+    {
+      "item": "volcanicevolution:volcanicoreblock"
+    },
+    {
+      "item": "volcanicevolution:volcanicoreblock"
+    },
+    {
+      "item": "volcanicevolution:volcanicoreblock"
+    }
+  ],
+  "result": {
+    "item": "volcanicevolution:concentratedvolcanic",
+    "count": 1
+  }
+}

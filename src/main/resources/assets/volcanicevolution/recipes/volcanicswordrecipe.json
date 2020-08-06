@@ -1,0 +1,24 @@
+{
+  "group": "volcanicevolution",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "volcanicevolution:volcanicingot"
+    },
+    "1": {
+      "item": "volcanicevolution:volcanicingot"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "volcanicevolution:volcanicsword",
+    "count": 1
+  }
+}

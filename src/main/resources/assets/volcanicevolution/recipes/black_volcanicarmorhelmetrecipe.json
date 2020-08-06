@@ -1,0 +1,29 @@
+{
+  "group": "volcanicevolution",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "volcanicevolution:black_volcanicgem"
+    },
+    "1": {
+      "item": "volcanicevolution:black_volcanicgem"
+    },
+    "2": {
+      "item": "volcanicevolution:black_volcanicgem"
+    },
+    "3": {
+      "item": "volcanicevolution:black_volcanicgem"
+    },
+    "5": {
+      "item": "volcanicevolution:black_volcanicgem"
+    }
+  },
+  "result": {
+    "item": "volcanicevolution:black_volcanicarmorhelmet",
+    "count": 1
+  }
+}

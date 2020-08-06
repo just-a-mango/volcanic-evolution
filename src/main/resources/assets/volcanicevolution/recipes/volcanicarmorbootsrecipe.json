@@ -1,0 +1,26 @@
+{
+  "group": "volcanicevolution",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "volcanicevolution:volcanicingot"
+    },
+    "2": {
+      "item": "volcanicevolution:volcanicingot"
+    },
+    "3": {
+      "item": "volcanicevolution:volcanicingot"
+    },
+    "5": {
+      "item": "volcanicevolution:volcanicingot"
+    }
+  },
+  "result": {
+    "item": "volcanicevolution:volcanicarmorboots",
+    "count": 1
+  }
+}

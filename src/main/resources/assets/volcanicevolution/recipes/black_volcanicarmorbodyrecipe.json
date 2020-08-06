@@ -1,0 +1,39 @@
+{
+  "group": "volcanicevolution",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "volcanicevolution:black_volcanicgem"
+    },
+    "2": {
+      "item": "volcanicevolution:black_volcanicgem"
+    },
+    "3": {
+      "item": "volcanicevolution:black_volcanicgem"
+    },
+    "4": {
+      "item": "volcanicevolution:black_volcanicgem"
+    },
+    "5": {
+      "item": "volcanicevolution:black_volcanicgem"
+    },
+    "6": {
+      "item": "volcanicevolution:black_volcanicgem"
+    },
+    "7": {
+      "item": "volcanicevolution:black_volcanicgem"
+    },
+    "8": {
+      "item": "volcanicevolution:black_volcanicgem"
+    }
+  },
+  "result": {
+    "item": "volcanicevolution:black_volcanicarmorbody",
+    "count": 1
+  }
+}

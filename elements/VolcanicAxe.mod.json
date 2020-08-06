@@ -1,0 +1,26 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "volcanic_axe",
+    "customModelName": "Normal",
+    "name": "Volcanic Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:VolcanicEvolution"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 17,
+    "efficiency": 22.0,
+    "attackSpeed": 1.0,
+    "enchantability": 118,
+    "damageVsEntity": 17.0,
+    "usageCount": 4920,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

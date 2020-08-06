@@ -1,0 +1,13 @@
+{
+  "group": "volcanicevolution",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "volcanicevolution:titaniumoreblock"
+    }
+  ],
+  "result": {
+    "item": "volcanicevolution:titaniumingot",
+    "count": 9
+  }
+}

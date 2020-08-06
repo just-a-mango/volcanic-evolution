@@ -1,0 +1,51 @@
+{
+  "_fv": 10,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "black_volcanic_head",
+    "enableBody": true,
+    "textureBody": "black_volcanic_body",
+    "enableLeggings": true,
+    "textureLeggings": "black_volcanic_leggings",
+    "enableBoots": true,
+    "textureBoots": "black_volcanic_boots",
+    "creativeTab": {
+      "value": "CUSTOM:VolcanicEvolution"
+    },
+    "armorTextureFile": "blackvolcanic",
+    "helmetName": "Black Volcanic Helmet",
+    "bodyName": "Black Volcanic Chestplate",
+    "leggingsName": "Black Volcanic Leggings",
+    "bootsName": "Black Volcanic Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 150,
+    "damageValueHelmet": 20,
+    "damageValueBody": 50,
+    "damageValueLeggings": 60,
+    "damageValueBoots": 20,
+    "enchantability": 90,
+    "toughness": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}

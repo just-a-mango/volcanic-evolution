@@ -1,0 +1,13 @@
+{
+  "group": "volcanicevolution",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "volcanicevolution:volcanicoreblock"
+    }
+  ],
+  "result": {
+    "item": "volcanicevolution:volcanicingot",
+    "count": 9
+  }
+}

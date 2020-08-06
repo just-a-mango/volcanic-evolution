@@ -1,0 +1,30 @@
+{
+  "group": "volcanicevolution",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "volcanicevolution:amethystgem"
+    },
+    "1": {
+      "item": "volcanicevolution:amethystgem"
+    },
+    "2": {
+      "item": "volcanicevolution:amethystgem"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "volcanicevolution:amethystpickaxe",
+    "count": 1
+  }
+}

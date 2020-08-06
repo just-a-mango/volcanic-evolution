@@ -1,0 +1,26 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "amethyst_shovel",
+    "customModelName": "Normal",
+    "name": "Amethyst Shovel",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:VolcanicEvolution"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 9,
+    "efficiency": 15.0,
+    "attackSpeed": 1.0,
+    "enchantability": 64,
+    "damageVsEntity": 9.0,
+    "usageCount": 2117,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "volcanicevolution",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "volcanicevolution:amethystgem"
+    },
+    "2": {
+      "item": "volcanicevolution:amethystgem"
+    },
+    "3": {
+      "item": "volcanicevolution:amethystgem"
+    },
+    "5": {
+      "item": "volcanicevolution:amethystgem"
+    }
+  },
+  "result": {
+    "item": "volcanicevolution:amethystarmorboots",
+    "count": 1
+  }
+}

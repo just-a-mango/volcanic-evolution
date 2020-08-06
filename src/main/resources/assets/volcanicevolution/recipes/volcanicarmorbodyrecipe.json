@@ -1,0 +1,39 @@
+{
+  "group": "volcanicevolution",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "volcanicevolution:volcanicingot"
+    },
+    "2": {
+      "item": "volcanicevolution:volcanicingot"
+    },
+    "3": {
+      "item": "volcanicevolution:volcanicingot"
+    },
+    "4": {
+      "item": "volcanicevolution:volcanicingot"
+    },
+    "5": {
+      "item": "volcanicevolution:volcanicingot"
+    },
+    "6": {
+      "item": "volcanicevolution:volcanicingot"
+    },
+    "7": {
+      "item": "volcanicevolution:volcanicingot"
+    },
+    "8": {
+      "item": "volcanicevolution:volcanicingot"
+    }
+  },
+  "result": {
+    "item": "volcanicevolution:volcanicarmorbody",
+    "count": 1
+  }
+}

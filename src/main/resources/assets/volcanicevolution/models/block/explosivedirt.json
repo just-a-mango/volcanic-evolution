@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "volcanicevolution:blocks/dirt",
+    "up": "volcanicevolution:blocks/dirt",
+    "north": "volcanicevolution:blocks/dirt",
+    "east": "volcanicevolution:blocks/dirt",
+    "south": "volcanicevolution:blocks/dirt",
+    "west": "volcanicevolution:blocks/dirt",
+    "particle": "volcanicevolution:blocks/dirt"
+  }
+}

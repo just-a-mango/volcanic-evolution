@@ -1,0 +1,26 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "titanium_pickaxe",
+    "customModelName": "Normal",
+    "name": "Titanium Pickaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:VolcanicEvolution"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 13,
+    "efficiency": 18.0,
+    "attackSpeed": 1.0,
+    "enchantability": 90,
+    "damageVsEntity": 13.0,
+    "usageCount": 3362,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

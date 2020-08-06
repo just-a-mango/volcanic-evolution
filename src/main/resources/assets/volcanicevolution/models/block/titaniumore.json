@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "volcanicevolution:blocks/titanium_ore",
+    "particle": "volcanicevolution:blocks/titanium_ore"
+  }
+}

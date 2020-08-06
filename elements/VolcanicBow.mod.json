@@ -1,0 +1,36 @@
+{
+  "_fv": 10,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "volcanic_bow",
+    "customModelName": "Normal",
+    "name": "Volcanic Bow",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:VolcanicEvolution"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:VolcanicArrow"
+    },
+    "shootConstantly": false,
+    "usageCount": 100,
+    "actionSound": {
+      "value": "entity.blaze.ambient"
+    },
+    "hasGlow": false,
+    "enableMeleeDamage": true,
+    "damageVsEntity": 7.0,
+    "bulletPower": 3.0,
+    "bulletDamage": 14.5,
+    "bulletKnockback": 5,
+    "bulletParticles": true,
+    "bulletIgnitesFire": true,
+    "bulletItemTexture": {
+      "value": "CUSTOM:VolcanicArrow"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": ""
+  }
+}

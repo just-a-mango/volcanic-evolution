@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "volcanicevolution:blocks/volcanic_ore_block",
+    "particle": "volcanicevolution:blocks/volcanic_ore_block"
+  }
+}

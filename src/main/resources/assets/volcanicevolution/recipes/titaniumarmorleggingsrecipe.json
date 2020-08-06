@@ -1,0 +1,36 @@
+{
+  "group": "volcanicevolution",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "volcanicevolution:titaniumingot"
+    },
+    "1": {
+      "item": "volcanicevolution:titaniumingot"
+    },
+    "2": {
+      "item": "volcanicevolution:titaniumingot"
+    },
+    "3": {
+      "item": "volcanicevolution:titaniumingot"
+    },
+    "5": {
+      "item": "volcanicevolution:titaniumingot"
+    },
+    "6": {
+      "item": "volcanicevolution:titaniumingot"
+    },
+    "8": {
+      "item": "volcanicevolution:titaniumingot"
+    }
+  },
+  "result": {
+    "item": "volcanicevolution:titaniumarmorlegs",
+    "count": 1
+  }
+}

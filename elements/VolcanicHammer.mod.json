@@ -1,0 +1,35 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "hammer",
+    "customModelName": "Normal",
+    "name": "Hammer",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:VolcanicEvolution"
+    },
+    "toolType": "MultiTool",
+    "harvestLevel": 6,
+    "efficiency": 6.0,
+    "attackSpeed": 6.0,
+    "enchantability": 6,
+    "damageVsEntity": 6.0,
+    "usageCount": 3000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedInAir": {
+      "name": "VolcanicHammerBlockDestroyedWithTool"
+    },
+    "onRightClickedOnBlock": {
+      "name": "VolcanicHammerBlockDestroyedWithTool"
+    },
+    "onBlockDestroyedWithTool": {
+      "name": "VolcanicHammerBlockDestroyedWithTool"
+    }
+  }
+}

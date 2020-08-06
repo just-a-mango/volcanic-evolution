@@ -1,0 +1,13 @@
+{
+  "group": "volcanicevolution",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "volcanicevolution:amethystoreblock"
+    }
+  ],
+  "result": {
+    "item": "volcanicevolution:amethystgem",
+    "count": 9
+  }
+}

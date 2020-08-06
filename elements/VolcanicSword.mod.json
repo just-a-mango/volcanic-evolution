@@ -1,0 +1,29 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "volcanic_sword",
+    "customModelName": "Normal",
+    "name": "Volcanic Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:VolcanicEvolution"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 17,
+    "efficiency": 22.0,
+    "attackSpeed": 1.0,
+    "enchantability": 118,
+    "damageVsEntity": 17.0,
+    "usageCount": 4920,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "VolcanicSwordMobIsHitWithTool"
+    }
+  }
+}

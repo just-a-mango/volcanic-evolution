@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "volcanicevolution:volcanicdimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "volcanicevolution:volcanicdimension_portal_ns"
+    },
+    "inventory": {
+      "model": "volcanicevolution:volcanicdimension_portal_ns"
+    }
+  }
+}

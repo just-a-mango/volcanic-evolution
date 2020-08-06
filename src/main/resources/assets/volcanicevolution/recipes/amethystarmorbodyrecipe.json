@@ -1,0 +1,39 @@
+{
+  "group": "volcanicevolution",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "volcanicevolution:amethystgem"
+    },
+    "2": {
+      "item": "volcanicevolution:amethystgem"
+    },
+    "3": {
+      "item": "volcanicevolution:amethystgem"
+    },
+    "4": {
+      "item": "volcanicevolution:amethystgem"
+    },
+    "5": {
+      "item": "volcanicevolution:amethystgem"
+    },
+    "6": {
+      "item": "volcanicevolution:amethystgem"
+    },
+    "7": {
+      "item": "volcanicevolution:amethystgem"
+    },
+    "8": {
+      "item": "volcanicevolution:amethystgem"
+    }
+  },
+  "result": {
+    "item": "volcanicevolution:amethystarmorbody",
+    "count": 1
+  }
+}

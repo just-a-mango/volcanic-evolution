@@ -1,0 +1,17 @@
+{
+  "_fv": 10,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "revengedisc",
+    "name": "Revenge",
+    "description": "Creeper, awwww man...",
+    "creativeTab": {
+      "value": "CUSTOM:VolcanicEvolution"
+    },
+    "music": {
+      "value": "CUSTOM:revenge"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}
